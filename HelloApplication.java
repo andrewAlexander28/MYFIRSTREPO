@@ -26,7 +26,7 @@ public class HelloApplication {
                 int numberTwo = scanner.nextInt();
                 printAnyString("Type de first number");
                 int sumResult = sumNumbers(numberOne,numberTwo);
-                printAnyString("The result of your sumatory is");
+                printAnyString("The result of your sumatory is: " + sumResult);
                 break;
 
             case "b":
@@ -39,11 +39,11 @@ public class HelloApplication {
 
             case "c":
 
-                printAnyString("Now you are in cos fuctiopn to print the cos of a degree");
+                printAnyString("Now you are in cos fuction to print the cos of a degree");
                 printAnyString("Please type a value to calculate");
                 int normal = scanner.nextInt();
                 double cosenResult = Coseno(normal);
-                printAnyString("The result of your cosen is" + cosenResult);
+                printAnyString("The result of your cosen is: " + cosenResult);
                 break;
 
 
