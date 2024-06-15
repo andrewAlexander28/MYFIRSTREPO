@@ -12,4 +12,6 @@ are improvements to the String API, such as more efficient methods of
 processing and manipulating character strings.
 
 CAPTURES:
-   
+   ! [](https://github.com/andrewAlexander28/MYFIRSTREPO/blob/main/Capture%20Cosen.jpg)
+   ! [](https://github.com/andrewAlexander28/MYFIRSTREPO/blob/main/Capture%20String.jpg)
+   ! [](https://github.com/andrewAlexander28/MYFIRSTREPO/blob/main/Capture%20Sum.jpg)
